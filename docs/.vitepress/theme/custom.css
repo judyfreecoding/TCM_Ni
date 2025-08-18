@@ -1,0 +1,60 @@
+:root {
+  --vp-c-brand: #c53030;
+  --vp-c-brand-light: #e53e3e;
+  --vp-c-brand-lighter: #f56565;
+  --vp-c-brand-dark: #9b2c2c;
+  --vp-c-brand-darker: #822727;
+
+  --vp-c-sponsor: #c53030;
+
+  --vp-c-bg-alt: #f9f9f9;
+
+  --vp-font-family-base: 'Noto Serif SC', 'Source Han Serif SC', serif;
+  --vp-font-family-mono: 'Fira Code', 'Source Code Pro', monospace;
+}
+
+/* 自定义容器颜色 */
+:root {
+  --vp-custom-block-tip-border: var(--vp-c-brand);
+  --vp-custom-block-tip-text: var(--vp-c-brand-darker);
+  --vp-custom-block-tip-bg: #f8e8e8;
+}
+
+/* 页面过渡动画 */
+.VPContent {
+  transition: transform 0.3s, opacity 0.3s;
+}
+
+/* 首页样式 */
+.VPHero .name,
+.VPHero .text {
+  font-family: 'Noto Serif SC', serif;
+}
+
+.VPHero .name {
+  font-weight: 700;
+  background: linear-gradient(to right, #c53030, #9b2c2c);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* 中医元素样式 */
+.tcm-symbol {
+  display: inline-block;
+  width: 1.2em;
+  height: 1.2em;
+  vertical-align: middle;
+  margin-right: 0.2em;
+}
+
+/* 响应式调整 */
+@media (max-width: 640px) {
+  .VPHero .name {
+    font-size: 3rem !important;
+  }
+  
+  .VPHero .text {
+    font-size: 1.2rem !important;
+  }
+}
