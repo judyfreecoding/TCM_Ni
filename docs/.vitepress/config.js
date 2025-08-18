@@ -6,6 +6,7 @@ export default defineConfig({
   description: '中医学习平台',
   lastUpdated: true,
   cleanUrls: true,
+  appearance: 'dark',
   
   head: [
     ['link', { rel: 'icon', href: '/logo.svg' }]

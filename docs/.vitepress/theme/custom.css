@@ -9,8 +9,29 @@
 
   --vp-c-bg-alt: #f9f9f9;
 
-  --vp-font-family-base: 'Noto Serif SC', 'Source Han Serif SC', serif;
+  --vp-font-family-base: 'Microsoft YaHei', '微软雅黑', sans-serif;
   --vp-font-family-mono: 'Fira Code', 'Source Code Pro', monospace;
+}
+
+/* 暗色模式样式 */
+.dark {
+  --vp-c-bg: #111111;
+  --vp-c-bg-alt: #1a1a1a;
+  --vp-c-bg-soft: #222222;
+  --vp-c-bg-mute: #313131;
+  
+  --vp-c-divider: rgba(255, 255, 255, 0.1);
+  --vp-c-divider-light: rgba(255, 255, 255, 0.05);
+  
+  --vp-c-text-1: rgba(255, 255, 255, 0.9);
+  --vp-c-text-2: rgba(255, 255, 255, 0.7);
+  --vp-c-text-3: rgba(255, 255, 255, 0.5);
+  
+  --vp-c-brand: #ff6b6b;
+  --vp-c-brand-light: #ff8585;
+  --vp-c-brand-lighter: #ffa0a0;
+  --vp-c-brand-dark: #e05252;
+  --vp-c-brand-darker: #c53030;
 }
 
 /* 自定义容器颜色 */
@@ -18,6 +39,12 @@
   --vp-custom-block-tip-border: var(--vp-c-brand);
   --vp-custom-block-tip-text: var(--vp-c-brand-darker);
   --vp-custom-block-tip-bg: #f8e8e8;
+}
+
+.dark {
+  --vp-custom-block-tip-border: var(--vp-c-brand);
+  --vp-custom-block-tip-text: var(--vp-c-brand-lighter);
+  --vp-custom-block-tip-bg: rgba(255, 107, 107, 0.1);
 }
 
 /* 页面过渡动画 */
@@ -28,12 +55,19 @@
 /* 首页样式 */
 .VPHero .name,
 .VPHero .text {
-  font-family: 'Noto Serif SC', serif;
+  font-family: 'Microsoft YaHei', '微软雅黑', sans-serif;
 }
 
 .VPHero .name {
   font-weight: 700;
   background: linear-gradient(to right, #c53030, #9b2c2c);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.dark .VPHero .name {
+  background: linear-gradient(to right, #ff6b6b, #ff8585);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
