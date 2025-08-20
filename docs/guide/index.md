@@ -30,3 +30,9 @@
 
 - 邮箱：contact@tcm-ni.com
 - 微信公众号：倪海厦讲中医
+
+## [针法](/acupuncture/needling/)
+
+
+- [烧山火](/acupuncture/needling/burning_mountain/)
+- [透心凉](/acupuncture/needling/penetrating_cold/)
