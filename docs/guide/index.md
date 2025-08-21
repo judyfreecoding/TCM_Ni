@@ -36,3 +36,23 @@
 
 - [烧山火](/acupuncture/needling/burning_mountain/)
 - [透心凉](/acupuncture/needling/penetrating_cold/)
+
+::: info
+This is an info box.
+:::
+
+::: tip
+治症用tip
+:::
+
+::: warning
+针法用warning.
+:::
+
+::: danger
+特殊用dangerous warning.
+:::
+
+::: details
+This is a details block.
+:::
