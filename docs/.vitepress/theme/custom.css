@@ -36,15 +36,15 @@
 
 /* 自定义容器颜色 */
 :root {
-  --vp-custom-block-tip-border: var(--vp-c-brand);
-  --vp-custom-block-tip-text: var(--vp-c-brand-darker);
-  --vp-custom-block-tip-bg: #f8e8e8;
+  --vp-custom-block-tip-border: #9370db;
+  --vp-custom-block-tip-text: #663399;
+  --vp-custom-block-tip-bg: #f3f0ff;
 }
 
 .dark {
-  --vp-custom-block-tip-border: var(--vp-c-brand);
-  --vp-custom-block-tip-text: var(--vp-c-brand-lighter);
-  --vp-custom-block-tip-bg: rgba(255, 107, 107, 0.1);
+  --vp-custom-block-tip-border: #b19cd9;
+  --vp-custom-block-tip-text: #dda0dd;
+  --vp-custom-block-tip-bg: rgba(147, 112, 219, 0.1);
 }
 
 /* 页面过渡动画 */
