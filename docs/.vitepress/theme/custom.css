@@ -39,12 +39,20 @@
   --vp-custom-block-tip-border: #9370db;
   --vp-custom-block-tip-text: #663399;
   --vp-custom-block-tip-bg: #f3f0ff;
+
+  --vp-custom-block-info-border: #90ee90;
+  --vp-custom-block-info-text: #228b22;
+  --vp-custom-block-info-bg: #f0fff0;
 }
 
 .dark {
   --vp-custom-block-tip-border: #b19cd9;
   --vp-custom-block-tip-text: #dda0dd;
   --vp-custom-block-tip-bg: rgba(147, 112, 219, 0.1);
+
+  --vp-custom-block-info-border: #90ee90;
+  --vp-custom-block-info-text: #98fb98;
+  --vp-custom-block-info-bg: rgba(144, 238, 144, 0.1);
 }
 
 /* 页面过渡动画 */
