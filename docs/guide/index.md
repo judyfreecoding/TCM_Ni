@@ -38,7 +38,7 @@
 - [透心凉](/acupuncture/needling/penetrating_cold/)
 
 ::: info
-This is an info box.
+重要信息用info
 :::
 
 ::: tip
@@ -50,7 +50,7 @@ This is an info box.
 :::
 
 ::: danger
-特殊用dangerous warning.
+特别提醒用danger
 :::
 
 ::: details
