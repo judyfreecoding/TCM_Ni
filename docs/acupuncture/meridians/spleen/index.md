@@ -352,4 +352,4 @@
 
 ## 脾经胸腹线穴位总览
 
-![An image](/spleen/脾经胸腹线.png)
+![An image](/spleen/脾经胸腹穴道.png)

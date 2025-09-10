@@ -447,4 +447,4 @@
 
 ## 胃经胸腹线穴位总览
 
-![An image](/stomach/胃经胸腹线.png)
+![An image](/stomach/胃经胸腹穴道.png)
