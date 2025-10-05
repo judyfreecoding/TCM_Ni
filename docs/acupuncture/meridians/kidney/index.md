@@ -341,4 +341,4 @@
 :::
 
 ## 肾经胸腹线路
-![An image](/kidney/肾经胸腹穴道.png)
+![An image](/kidney/肾经胸腹线路.png)

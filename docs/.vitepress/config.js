@@ -54,7 +54,9 @@ export default defineConfig({
                 { text: '心包经', link: '/acupuncture/meridians/pericardium/' },
                 { text: '三焦经', link: '/acupuncture/meridians/triple_energizer/' },
                 { text: '胆经', link: '/acupuncture/meridians/gallbladder/' },
-                { text: '肝经', link: '/acupuncture/meridians/liver/' }
+                { text: '肝经', link: '/acupuncture/meridians/liver/' },
+                { text: '十二经总结', link: '/acupuncture/meridians/12Summarize/' }
+                
               ]
             },
             {
