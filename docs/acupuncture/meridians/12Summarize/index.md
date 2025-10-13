@@ -52,7 +52,7 @@
 
 膀胱经
 
-![An image](/12Summarize/肩项督脉和膀胱经.png)
+![An image](/12Summarize/肩项膀胱经.png)
 
 小肠经
 
@@ -66,15 +66,35 @@
 
 ![An image](/12Summarize/肩项汇总.png)
 
-## 手部线路
+## 手部三阳经线路
 
-|||
-|---|---|
-|手三阴经||
-|大肠经||
-|小肠经||
-|三焦经||
-|||
+大肠经
+![An image](/12Summarize/手部大肠经.png)
+
+小肠经
+![An image](/12Summarize/手部小肠经.png)
+
+三焦经
+![An image](/12Summarize/手部三焦经.png)
+
+## 手部三阴经线路
+
+![An image](/12Summarize/手部三阴经.png)
+
+## 手臂三阳经线路
+
+大肠经
+![An image](/12Summarize/手及臂大肠经.png)
+
+小肠经
+![An image](/12Summarize/手及臂小肠经.png)
+
+三焦经
+![An image](/12Summarize/手及臂三焦经.png)
+
+## 手臂三阴经线路
+
+![An image](/12Summarize/手及臂三阴经.png)
 
 ## 足部线路
 
