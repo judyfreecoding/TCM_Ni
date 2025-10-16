@@ -68,13 +68,13 @@
 
 ## 手部三阳经线路
 
-大肠经
+前：大肠经
 ![An image](/12Summarize/手部大肠经.png)
 
-小肠经
+后：小肠经
 ![An image](/12Summarize/手部小肠经.png)
 
-三焦经
+中：三焦经
 ![An image](/12Summarize/手部三焦经.png)
 
 ## 手部三阴经线路
@@ -83,13 +83,13 @@
 
 ## 手臂三阳经线路
 
-大肠经
+前：大肠经
 ![An image](/12Summarize/手及臂大肠经.png)
 
-小肠经
+后：小肠经
 ![An image](/12Summarize/手及臂小肠经.png)
 
-三焦经
+中：三焦经
 ![An image](/12Summarize/手及臂三焦经.png)
 
 ## 手臂三阴经线路
@@ -98,21 +98,38 @@
 
 ## 足部线路
 
-|||
-|---|---|
-|足背胃肝胆经||
-|足内侧脾肾经||
-|足外侧膀胱经||
-|||
+足及小腿内侧
 
-## 小腿线路
+足太阴脾经
+![An image](/12Summarize/足太阴脾经.png)
 
-|||
-|---|---|
-|小腿前胃经||
-|小腿后膀胱经||
-|小腿外胆经||
-|小腿内脾肝肾经||
+足厥阴肝经
+![An image](/12Summarize/足厥阴肝经.png)
+
+足少阴肾经
+![An image](/12Summarize/足少阴肾经.png)
+
+足三阴经汇总
+![An image](/12Summarize/足三阴经.png)
+
+足背肝经
+![An image](/12Summarize/足背肝经.png)
+
+足背胆经
+![An image](/12Summarize/足背胆经.png)
+
+足背胃经
+![An image](/12Summarize/足背胃经.png)
+
+足背汇总
+![An image](/12Summarize/足背肝胆胃经.png)
+
+足及小腿前侧
+
+足及小腿外侧
+
+足及小腿后侧
+
 
 ## 十二经要穴
 
