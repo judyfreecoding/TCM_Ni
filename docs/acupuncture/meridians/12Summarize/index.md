@@ -96,9 +96,7 @@
 
 ![An image](/12Summarize/手及臂三阴经.png)
 
-## 足部线路
-
-足及小腿内侧
+## 足部——小腿内侧线路（三阴经）
 
 足太阴脾经
 ![An image](/12Summarize/足太阴脾经.png)
@@ -112,6 +110,8 @@
 足三阴经汇总
 ![An image](/12Summarize/足三阴经.png)
 
+## 足部——足背（肝胆胃经）
+
 足背肝经
 ![An image](/12Summarize/足背肝经.png)
 
@@ -124,11 +124,27 @@
 足背汇总
 ![An image](/12Summarize/足背肝胆胃经.png)
 
-足及小腿前侧
+## 足部——小腿前侧
 
-足及小腿外侧
+胃经
 
-足及小腿后侧
+## 足部——小腿外侧（胆膀胱）
+
+胆经
+![An image](/12Summarize/小腿外侧胆经.png)
+
+膀胱经
+![An image](/12Summarize/小腿外侧膀胱经.png)
+
+胃经
+![An image](/12Summarize/小腿外侧胃经.png)
+
+外侧汇总
+![An image](/12Summarize/小腿外侧胆膀胃经.png)
+
+## 足部——小腿后侧
+
+膀胱经
 
 
 ## 十二经要穴
