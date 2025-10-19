@@ -65,20 +65,14 @@ export default defineConfig({
               items: [
                 { text: '任脉', link: '/acupuncture/extraordinary/ren/' },
                 { text: '督脉', link: '/acupuncture/extraordinary/du/' },
-                { text: '冲脉', link: '/acupuncture/extraordinary/chong/' },
-                { text: '带脉', link: '/acupuncture/extraordinary/dai/' },
-                { text: '阴维脉', link: '/acupuncture/extraordinary/yinwei/' },
-                { text: '阳维脉', link: '/acupuncture/extraordinary/yangwei/' },
-                { text: '阴跷脉', link: '/acupuncture/extraordinary/yinqiao/' },
-                { text: '阳跷脉', link: '/acupuncture/extraordinary/yangqiao/' }
+                { text: '奇经八脉合集', link: '/acupuncture/extraordinary/compilation/' }
               ]
             },
             {
               text: '针法',
               collapsed: false,
               items: [
-                { text: '烧山火', link: '/acupuncture/needling/burning_mountain/' },
-                { text: '透心凉', link: '/acupuncture/needling/penetrating_cold/' }
+                { text: '针法', link: '/acupuncture/needling/' }
               ]
             },
             {
