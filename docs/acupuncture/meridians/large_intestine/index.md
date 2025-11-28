@@ -259,4 +259,3 @@
 
 ## 大肠经线路
 
-![An image](/large_intestine/大肠经走线.jpg)
