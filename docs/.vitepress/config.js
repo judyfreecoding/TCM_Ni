@@ -91,8 +91,13 @@ export default defineConfig({
           text: '黄帝内经',
           items: [
             { text: '概述', link: '/huangdi/' },
-            { text: '素问', link: '/huangdi/suwen/' },
-            { text: '灵枢', link: '/huangdi/lingshu/' }
+            { text: '系统总体设计', link: '/huangdi/summary/' },
+            { text: '子系统设计', link: '/huangdi/subdesign/' },
+            { text: '网络结构设计', link: '/huangdi/networkdesign/' },
+            { text: '常见问题集合', link: '/huangdi/case/' },
+            { text: '针刺规则', link: '/huangdi/rules/' },
+            { text: '脉法', link: '/huangdi/pulse/' },
+            { text: '其它', link: '/huangdi/others/' }
           ]
         }
       ],
