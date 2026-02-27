@@ -25,25 +25,104 @@
 
 热病的原因，都是伤于寒。即使发高烧，也不会致死。但若两个寒邪同时进入阴经和阳经，必不免于死。
 
-引起热病的寒邪，在人体中的行走路径和进程：
+引起热病的寒邪，在人体中会随着经络一路前进，它走到哪里，哪里就有相应的症状出现。下表是寒邪的行走路径和进程，以及我们的治疗方法：
 
-1、第一日进入太阳经。会导致头顶痛、项强、腰脊强。
+|天数|病邪位置|症状|治疗方法|
+|---|---|---|---|
+|第一日|进入太阳经|会导致头顶痛、项强、腰脊强|疏通太阳经。如果寒邪较轻，太阳经一疏通，正气一冲，寒邪就散了，就不会有下一步了。以下每一步皆如此理。|
 
-2、第二日进入阳明经。阳明主肉，其脉侠鼻络目，阳明经气本来是从上往下走的，现在有邪进入，阻了气行，热气自然往上，所以身热、目疼、鼻干，无法安卧。
+|第二日|进入阳明经|阳明主肉，其脉侠鼻络目，阳明经气本来是从上往下走的，现在有邪进入，阻了气行，热气自然往上，所以身热、目疼、鼻干，无法安卧|疏通阳明经|
 
-3、第三日进入少阳经。少阳是半表半里，主开合。少阳胆经，循肋络耳，故胸肋痛且耳聋。
+|第三日|进入少阳经|少阳是半表半里，主开合。少阳胆经，循肋络耳，故胸肋痛且耳聋|疏通少阳经|
 
 ::: tip 寒在三阳经的治疗办法——汗解
-三阳经受了寒邪，可以用汗解法治疗。所谓汗解，就是发汗，让汗把邪带出体外。
+三阳经受了寒邪，可以用汗解法治疗。所谓汗解法，就是发汗，让汗把邪带出体外。
 
-只有一种情况不能用汗解，就是阳明腑热。邪在阳明，会引起腑热和经热两种情况。如果是阳明经热，可用汗解；如果是阳明腑热（即肠胃热），则病人大便排不出来，排不出来的原因是肠道精液被热烧干了，如果此时还用汗解，进一步损伤经液，则便秘的状况会更加严重。
+只有一种情况不能用汗解，就是阳明腑热。邪在阳明，会引起腑热和经热两种情况。如果是阳明经热，可用汗解；如果是阳明腑热（即肠胃热），则病人大便排不出来，排不出来的原因是肠道精液被热烧干了，如果此时还用汗解，进一步损伤经液，则便秘的状况会更加严重。所以阳明腑热的情况下，是用攻下法治疗，也就是排便，让寒邪通过大便排出去。
 :::
 
-4、第四日进入太阴经。太阴脾经布胃络咽。所以腹满且咽干。
+|第四日|进入太阴经|太阴脾经布胃络咽。所以腹满且咽干|疏通太阴经|
 
-5、第五日进入少阴经。少阴肾经络肺系舌根。所以口燥口渴舌干。
+|第五日|进入少阴经|少阴肾经络肺系舌根。所以口燥口渴舌干|疏通少阴经|
 
-6、第六日进入厥阴经。厥阴肝经循阴器，所以阴囊缩且烦满、胸胁胀满。
+|第六日|进入厥阴经|厥阴肝经循阴器，所以阴囊缩且烦满、胸胁胀满|疏通厥阴经|
+
+```mermaid
+graph TD
+    %% 定义样式
+    classDef day fill:#e6e6fa,stroke:#333,stroke-width:1px,align:left,font-size:36px
+    classDef treat fill:#fff,stroke:#333,stroke-width:1px,align:center,font-size:36px
+    classDef ok fill:#90ee90,stroke:none,color:#006400,font-weight:bold,font-size:36px
+
+    %% 节点定义（优化字号和宽度，防止图表过大导致被自动缩小）
+    D1["<div style='width:600px;white-space:normal;line-height:1.5;text-align:left'><b>第一日：邪入太阳经</b><br>症状：会导致头顶痛、项强、腰脊强</div>"]:::day 
+    D2["<div style='width:600px;white-space:normal;line-height:1.5;text-align:left'><b>第二日：邪入阳明经</b><br>症状：阳明主肉，其脉侠鼻络目，阳明经气本来是从上往下走的，现在有邪进入，阻了气行，热气自然往上，所以身热、目疼、鼻干，无法安卧</div>"]:::day
+    D3["<div style='width:600px;white-space:normal;line-height:1.5;text-align:left'><b>第三日：邪入少阳经</b><br>症状：少阳是半表半里，主开合。少阳胆经，循肋络耳，故胸肋痛且耳聋</div>"]:::day
+    D4["<div style='width:600px;white-space:normal;line-height:1.5;text-align:left'><b>第四日：邪入太阴经</b><br>症状：太阴脾经布胃络咽。所以腹满且咽干</div>"]:::day
+    D5["<div style='width:600px;white-space:normal;line-height:1.5;text-align:left'><b>第五日：邪入少阴经</b><br>症状：少阴肾经络肺系舌。所以口燥口渴舌干</div>"]:::day
+    D6["<div style='width:600px;white-space:normal;line-height:1.5;text-align:left'><b>第六日：邪入厥阴经</b><br>症状：厥阴肝经循阴器，所以阴囊缩且烦满、胸胁胀满</div>"]:::day
+    
+    T1["<div style='width:300px;white-space:normal;line-height:1.5;text-align:left'>疏通太阳经</div>"]:::treat
+    T2["<div style='width:300px;white-space:normal;line-height:1.5;text-align:left'>疏通阳明经、太阳经</div>"]:::treat
+    T3["<div style='width:300px;white-space:normal;line-height:1.5;text-align:left'>疏通少阳、阳明、太阳经</div>"]:::treat
+    T4["<div style='width:300px;white-space:normal;line-height:1.5;text-align:left'>疏通太阴、少阳、阳明、太阳经</div>"]:::treat
+    T5["<div style='width:300px;white-space:normal;line-height:1.5;text-align:left'>疏通少阴、太阴、少阳、阳明、太阳经</div>"]:::treat
+    T6["<div style='width:300px;white-space:normal;line-height:1.5;text-align:left'>疏通厥阴、少阴、太阴、少阳、阳明、太阳经</div>"]:::treat
+    
+    O1((<div style='display:flex;align-items:center;justify-content:center;height:100%'>痊愈</div>)):::ok
+    O2((<div style='display:flex;align-items:center;justify-content:center;height:100%'>痊愈</div>)):::ok
+    O3((<div style='display:flex;align-items:center;justify-content:center;height:100%'>痊愈</div>)):::ok
+    O4((<div style='display:flex;align-items:center;justify-content:center;height:100%'>痊愈</div>)):::ok
+    O5((<div style='display:flex;align-items:center;justify-content:center;height:100%'>痊愈</div>)):::ok
+    O6((<div style='display:flex;align-items:center;justify-content:center;height:100%'>痊愈</div>)):::ok
+    O7((<div style='display:flex;align-items:center;justify-content:center;height:100%'>痊愈</div>)):::ok
+
+    DIE["<div style='width:250px;white-space:normal;font-size:36px'>此时三阴经三阳经都已经受病，如果病邪在争斗中占了上风，进入了五藏六腑，导致荣卫不行五藏不通，那么就是死症</div>"]
+    style DIE fill:#ffcccc,stroke:#f00,color:#f00
+    REC["<div style='width:250px;white-space:normal;font-size:36px'>如果在此期间，没有第二个寒邪进入人体，且人体正气在争斗中占了上风，寒邪没能进入五脏六腑，那么病程会进入以下流程</div>"]
+
+    R1["<div style='width:350px;white-space:normal;line-height:1.5;text-align:left'><b>第七日，太阳病衰</b><br>状态：头痛会稍愈</div>"]:::day 
+    R2["<div style='width:350px;white-space:normal;line-height:1.5;text-align:left'><b>第八日，阳明病衰</b><br>状态：身热会稍愈</div>"]:::day
+    R3["<div style='width:350px;white-space:normal;line-height:1.5;text-align:left'><b>第九日，少阳病衰</b><br>状态：耳聋会稍愈</div>"]:::day
+    R4["<div style='width:350px;white-space:normal;line-height:1.5;text-align:left'><b>第十日，太阴病衰</b><br>状态：腹不再满，恢复如故，所以开始思饮食了</div>"]:::day
+    R5["<div style='width:350px;white-space:normal;line-height:1.5;text-align:left'><b>第十一日，少阴病衰</b><br>状态：不再口渴舌干，有喷嚏出</div>"]:::day
+    R6["<div style='width:350px;white-space:normal;line-height:1.5;text-align:left'><b>第十二日，厥阴病衰</b><br>状态：阴囊恢复正常，少腹变柔软，病气已去，很快就会痊愈了</div>"]:::day
+
+    %% 布局逻辑
+    D1 --> D2
+    D2 --> D3
+    D3 --> D4
+    D4 --> D5
+    D5 --> D6
+    
+    D1 ---|<div style='display:flex;align-items:center;justify-content:center;height:100%'><span style='font-size:36px'>治疗方法</span></div>| T1
+    D2 ---|<div style='display:flex;align-items:center;justify-content:center;height:100%'><span style='font-size:36px'>治疗方法</span></div>| T2
+    D3 ---|<div style='display:flex;align-items:center;justify-content:center;height:100%'><span style='font-size:36px'>治疗方法</span></div>| T3
+    D4 ---|<div style='display:flex;align-items:center;justify-content:center;height:100%'><span style='font-size:36px'>治疗方法</span></div>| T4
+    D5 ---|<div style='display:flex;align-items:center;justify-content:center;height:100%'><span style='font-size:36px'>治疗方法</span></div>| T5
+    D6 ---|<div style='display:flex;align-items:center;justify-content:center;height:100%'><span style='font-size:36px'>治疗方法</span></div>| T6
+    
+    T1 --> O1
+    T2 --> O2
+    T3 --> O3
+    T4 --> O4
+    T5 --> O5
+    T6 --> O6
+    
+    D6 --> DIE
+    D6 --> REC
+    REC --> R1
+    R1 --> R2
+    R2 --> R3
+    R3 --> R4
+    R4 --> R5
+    R5 --> R6
+    R6 --> O7
+    
+    %% 强制水平排列
+    linkStyle 5,6,7,8,9,10 stroke-width:2px,fill:none,stroke:black;
+```
+
 
 接下来会有两种分支状况：
 
@@ -51,12 +130,7 @@
 
 2、如果在此期间，没有第二个寒邪进入人体，那么：
 
-- 第七日太阳病衰，头痛会稍愈；
-- 第八日阳明病衰，身热会稍愈；
-- 第九日少阳病衰，耳聋会稍愈；
-- 第十日太阴病衰，腹不再满，恢复如故，所以开始思饮食了；
-- 第十一日少阴病衰，不再口渴舌干，有喷嚏出；
-- 第十二日厥阴病衰，阴囊恢复正常，少腹变柔软，病气已去，很快会痊愈了。
+
 
 ::: tip 治疗热症的方法
 治疗热症的方法，是使其脏腑经脉通畅无阻，病必日渐衰微。
@@ -83,6 +157,14 @@
 2、第二日，寒邪进入阳明与太阴，所以腹满、身热、不思饮食；
 
 3、第三日，寒邪进入少阳与厥阴，所以耳聋、阴囊缩、手足冰冷。吃不下任何食物饮水，不认识亲人，六日内必死。
+
+```mermaid
+graph TD
+    A[第一日: 太阳 + 少阴] --> B[第二日: 阳明 + 太阴]
+    B --> C[第三日: 少阳 + 厥阴]
+    C --> D[死症]
+    style D fill:#f00,color:#fff,stroke:#333
+```
 
 ::: info 热病的分类
 

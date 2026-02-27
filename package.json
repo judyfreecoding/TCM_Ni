@@ -18,6 +18,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "vitepress": "^1.0.0-rc.40"
+    "mermaid": "^11.12.3",
+    "vitepress": "^1.0.0-rc.40",
+    "vitepress-plugin-mermaid": "^2.0.17"
   }
 }

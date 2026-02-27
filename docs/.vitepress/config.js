@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
+import { withMermaid } from 'vitepress-plugin-mermaid'
 
-export default defineConfig({
+export default withMermaid(defineConfig({
   lang: 'zh-CN',
   title: '倪海厦讲中医',
   description: '中医学习平台',
@@ -144,4 +145,4 @@ export default defineConfig({
       provider: 'local'
     }
   }
-})
+}))
