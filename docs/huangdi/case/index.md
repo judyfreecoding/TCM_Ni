@@ -130,6 +130,8 @@ graph TD
     linkStyle 5,6,7,8,9,10 stroke-width:2px,fill:none,stroke:black;
 ```
 
+
+
 ::: tip 治疗热症的方法
 治疗热症的方法，是使其脏腑经脉通畅无阻，病必日渐衰微。
 
@@ -399,6 +401,51 @@ graph TD
 ## 痛（出自 39、举痛论）
 
 所有的痛，都是因为寒。
+
+
+```mermaid
+graph TD
+    %% 定义节点：使用双引号包裹以支持中文和特殊符号
+    WOOD("🍀 木系统: 肝/胆 [行动控制]")
+    FIRE("🔥 火系统: 心/小肠 [动力中枢]")
+    EARTH("⭐ 土系统: 脾/胃 [能量生发]")
+    METAL("⚪ 金系统: 肺/大肠 [城防节控]")
+    WATER("🌑 水系统: 肾/膀胱 [能量存储]")
+
+    %% 相生：工作前提
+    WOOD -->|相生| FIRE
+    FIRE -->|相生| EARTH
+    EARTH -->|相生| METAL
+    METAL -->|相生| WATER
+    WATER -->|相生| WOOD
+
+    %% 相克：平衡制约 (使用虚线表示)
+    WOOD -.->|相克| EARTH
+    EARTH -.->|相克| WATER
+    WATER -.->|相克| FIRE
+    FIRE -.->|相克| METAL
+    METAL -.->|相克| WOOD
+
+    %% 节点样式控制
+    style WOOD fill:#f1f8e9,stroke:#33691e
+    style FIRE fill:#ffebee,stroke:#b71c1c
+    style EARTH fill:#fff9c4,stroke:#fbc02d
+    style METAL fill:#fafafa,stroke:#616161
+    style WATER fill:#eeeeee,stroke:#212121
+```
+
+
+```mermaid
+
+```
+
+
+
+
+
+
+
+
 
 ## 邪客络中（出自 63、缪刺论；60、骨空论；56、皮部论；57、经络论）
 

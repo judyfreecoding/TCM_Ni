@@ -19,6 +19,18 @@
 
 身体系统每天自检一次，并给出自检异常报告。所以，你只需要读懂这些异常报告，并把异常处理掉，保持报告的清洁，你就能得到一个完美运行的身体系统。学会了阅读身体系统自检报告，至少你不必依赖一年一度的体检，以及在茫然的健康担忧中渡过每一天。
 
+
+## 五大子系统
+
+| 逻辑索引 (Index) | 时钟周期 (Season/RTC) | 方位协议 (Orientation) | 核心子系统 (Sub-system) | 运行模式 (OP Mode) | 关联传感器 (Sensor/Sense) | 压力阈值 (Stress/Emotion) | 固件特征 (Attribute) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **SYS_STATE_01** | **春 (Spring)** | 东 (East) | **肝 (Liver/Wood)** | **生发 (Init/Boot)** | 目 (Vision) | 怒 (Overload) | 青 (Cyan) / 酸 (Acid) |
+| **SYS_STATE_02** | **夏 (Summer)** | 南 (South) | **心 (Heart/Fire)** | **生长 (High Power)** | 舌 (Speech) | 喜 (Burst) | 赤 (Red) / 苦 (Bitter) |
+| **SYS_STATE_03** | **长夏 (Mid-Sum)** | 中 (Center) | **脾 (Spleen/Earth)** | **化 (Energy Dist)** | 口 (Taste) | 思 (Looping) | 黄 (Yellow) / 甘 (Sweet) |
+| **SYS_STATE_04** | **秋 (Autumn)** | 西 (West) | **肺 (Lung/Metal)** | **收敛 (Filtering)** | 鼻 (Smell) | 忧 (Depression) | 白 (White) / 辛 (Pungent) |
+| **SYS_STATE_05** | **冬 (Winter)** | 北 (North) | **肾 (Kidney/Water)** | **闭藏 (Deep Sleep)** | 耳 (Audio) | 恐 (Security Fail) | 黑 (Black) / 咸 (Salty) |
+
+
 ## 阅读身体系统自检报告
 
 身体系统很庞大，分为十二个子系统。十二个子系统每天会轮流进行一次自检，若遇到异常情况，会立即抛出错误。系统自检包括内脏、网络和皮表传感器。早期报错都是极轻微的异常，非常容易解决，但如果没有得到处理，错误会逐渐升级，最终会导致内脏的异常。

@@ -13,6 +13,10 @@ export default withMermaid(defineConfig({
     ['link', { rel: 'icon', href: '/logo.svg' }]
   ],
 
+  markdown: {
+    math: true
+  },
+  
   themeConfig: {
     logo: '/logo.svg',
     nav: [
@@ -92,13 +96,78 @@ export default withMermaid(defineConfig({
           text: '黄帝内经',
           items: [
             { text: '概述', link: '/huangdi/' },
-            { text: '系统总体设计', link: '/huangdi/summary/' },
-            { text: '子系统设计', link: '/huangdi/subdesign/' },
-            { text: '网络结构设计', link: '/huangdi/networkdesign/' },
-            { text: '常见问题集合', link: '/huangdi/case/' },
-            { text: '针刺规则', link: '/huangdi/rules/' },
-            { text: '脉法', link: '/huangdi/pulse/' },
-            { text: '其它', link: '/huangdi/others/' }
+            {
+              text: '系统总体设计',
+              collapsed: false,
+              items: [
+                { text: '系统自检', link: '/huangdi/summary/' },
+                { text: '阴阳', link: '/huangdi/summary/' },
+                { text: '寒热', link: '/huangdi/summary/' },
+                { text: '表里虚实', link: '/huangdi/summary/' },
+                { text: '五大子系统', link: '/huangdi/summary/' }
+              ]
+            },
+            {
+              text: '子系统设计',
+              collapsed: false,
+              items: [
+                { text: '肝', link: '/huangdi/subdesign/' },
+                { text: '心', link: '/huangdi/subdesign/' },
+                { text: '脾', link: '/huangdi/subdesign/' },
+                { text: '肺', link: '/huangdi/subdesign/' },
+                { text: '肾', link: '/huangdi/subdesign/' }
+              ]
+            },
+            {
+              text: '网络结构设计',
+              collapsed: false,
+              items: [
+                { text: '主干线设计', link: '/huangdi/networkdesign/' },
+                { text: '特定穴位-水热穴等', link: '/huangdi/networkdesign/' }
+              ]
+            },
+            {
+              text: '常见问题集合',
+              collapsed: false,
+              items: [
+                { text: '热', link: '/huangdi/case/' },
+                { text: '痛', link: '/huangdi/case/' },
+                { text: '腹中论', link: '/huangdi/case/' },
+                { text: '络病', link: '/huangdi/case/' }
+              ]
+            },
+            {
+              text: '针刺',
+              collapsed: false,
+              items: [
+                { text: '补泻法', link: '/huangdi/rules/' },
+                { text: '针刺法则', link: '/huangdi/rules/' }
+              ]
+            },
+            {
+              text: '脉法',
+              collapsed: false,
+              items: [
+                { text: '脉法基础', link: '/huangdi/pulse/' }
+              ]
+            },
+            {
+              text: '其它',
+              collapsed: false,
+              items: [
+                { text: '其它', link: '/huangdi/others/' }
+              ]
+            },
+            {
+              text: '附录',
+              collapsed: false,
+              items: [
+                { text: '人体故障诊断算法', link: '/huangdi/appendix/failure.md' },
+                { text: '故障排除的调试方法', link: '/huangdi/appendix/debug.md' },
+                { text: '对称映射能量衰减理论', link: '/huangdi/appendix/symmetryTheory.md' },
+                { text: '总线协议代号表', link: '/huangdi/appendix/lineProtocol.md' }
+              ]
+            }
           ]
         }
       ],
