@@ -165,7 +165,8 @@ export default withMermaid(defineConfig({
                 { text: '人体故障诊断算法', link: '/huangdi/appendix/failure.md' },
                 { text: '故障排除的调试方法', link: '/huangdi/appendix/debug.md' },
                 { text: '对称映射能量衰减理论', link: '/huangdi/appendix/symmetryTheory.md' },
-                { text: '总线协议代号表', link: '/huangdi/appendix/lineProtocol.md' }
+                { text: '总线协议代号表', link: '/huangdi/appendix/lineProtocol.md' },
+                { text: '人体系统手册总纲', link: '/huangdi/appendix/outline.md' }
               ]
             }
           ]
