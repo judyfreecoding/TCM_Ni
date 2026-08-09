@@ -1,0 +1,42 @@
+P0 [both]: <w:p w14:paraId="7FD09CD3"><w:pPr><w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/><w:jc w:val="both"/><w:rPr><w:rFonts w:hint="default" w:eastAsia="宋体"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>应用层
+P1 [both]: 应用层
+P2 [left]: <w:bidi w:val="0"/><w:adjustRightInd/><w:snapToGrid/><w:spacing w:before="0" w:beforeLines="0" w:after="0" w:afterLines="0" w:line="240" w:lineRule="auto"/><w:textAlignment w:val="auto"/><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>诸风掉眩皆属于肝；诸痛痒疮皆属于心；诸痉项强皆属于湿；诸湿肿满皆属于脾；诸气愤郁皆属于肺；诸寒收引皆属于肾。
+P3 [left]: <w:bidi w:val="0"/><w:adjustRightInd/><w:snapToGrid/><w:spacing w:before="0" w:beforeLines="0" w:after="0" w:afterLines="0" w:line="240" w:lineRule="auto"/><w:textAlignment w:val="auto"/><w:rPr><w:rFonts w:hint="default"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>肝主怒；心主喜；脾主思；肺主忧；肾主恐。
+P4 [left]: <w:bidi w:val="0"/><w:adjustRightInd/><w:snapToGrid/><w:spacing w:before="0" w:beforeLines="0" w:after="0" w:afterLines="0" w:line="240" w:lineRule="auto"/><w:textAlignment w:val="auto"/><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>诸风掉眩皆属于肝；诸痛痒疮皆属于心；诸痉项强皆属于湿；诸湿肿满皆属于脾；诸气愤郁皆属于肺；诸寒收引皆属于肾。
+P5 [left]: <w:bidi w:val="0"/><w:adjustRightInd/><w:snapToGrid/><w:spacing w:before="0" w:beforeLines="0" w:after="0" w:afterLines="0" w:line="240" w:lineRule="auto"/><w:textAlignment w:val="auto"/><w:rPr><w:rFonts w:hint="default"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>肝主怒；心主喜；脾主思；肺主忧；肾主恐。
+P6 [left]: 消化吸收、运动、表情、思维、情绪、说话
+P7 [left]: 消化吸收、运动、表情、思维、情绪、说话
+P8 [center]: 膀胱经
+P9 [center]: 膀胱经
+P10 [center]: 肾经
+P11 [center]: 肾经
+P12 [center]: 大肠经
+P13 [center]: 大肠经
+P14 [center]: 肺经
+P15 [center]: 肺经
+P16 [center]: 胃经
+P17 [center]: 胃经
+P18 [center]: 脾经
+P19 [center]: 脾经
+P20 [center]: 小肠经
+P21 [center]: 小肠经
+P22 [center]: 心经
+P23 [center]: 心经
+P24 [center]: 胆经
+P25 [center]: 胆经
+P26 [left]: 气血
+P27 [left]: 气血
+P28 [both]: 基础层
+P29 [both]: 基础层
+P30 [both]: 基础理论层
+P31 [both]: 基础理论层
+P32 [left]: 阴阳
+P33 [left]: 阴阳
+P36 [both]: 服务层
+P39 [both]: 服务层
+P42 [both]: 协作层
+P43 [both]: 协作层
+P44 [center]: 肝经
+P45 [center]: 肝经
+P46 [both]: 网络层
+P47 [both]: 网络层

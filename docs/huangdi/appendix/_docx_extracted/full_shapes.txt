@@ -1,0 +1,189 @@
+
+========== Shape 1 ==========
+ID: 11, Name: 文本框 11
+Pos: (-40.1pt, 32.4pt) [-54px, 43px]
+Size: (90.7pt x 42.8pt) [121px x 57px]
+Shape xfrm: off=(0,0) ext=(1151890,542925)
+Geometry: rect
+Line width: 6350 EMU
+Text[0]: <w:p w14:paraId="7FD09CD3"><w:pPr><w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/><w:jc w:val="both"/><w:rPr><w:rFonts w:hint="default" w:eastAsia="宋体"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>应用层
+
+========== Shape 2 ==========
+ID: 10, Name: 文本框 10
+Pos: (65.5pt, 83.3pt) [87px, 111px]
+Size: (339.8pt x 71.2pt) [453px x 95px]
+Shape xfrm: off=(0,0) ext=(4315460,904875)
+Geometry: rect
+Line width: 6350 EMU
+Text[0]: <w:p w14:paraId="7496511C"><w:pPr><w:keepNext w:val="0"/><w:keepLines w:val="0"/><w:pageBreakBefore w:val="0"/><w:widowControl w:val="0"/><w:kinsoku/><w:wordWrap/><w:overflowPunct/><w:topLinePunct w:val="0"/><w:bidi w:val="0"/><w:adjustRightInd/><w:snapToGrid/><w:spacing w:before="0" w:beforeLines="0" w:after="0" w:afterLines="0" w:line="240" w:lineRule="auto"/><w:textAlignment w:val="auto"/><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>诸风掉眩皆属于肝；诸痛痒疮皆属于心；诸痉项强皆属于湿；诸湿肿满皆属于脾；诸气愤郁皆属于肺；诸寒收引皆属于肾。<w:bidi w:val="0"/><w:adjustRightInd/><w:snapToGrid/><w:spacing w:before="0" w:beforeLines="0" w:after="0" w:afterLines="0" w:line="240" w:lineRule="auto"/><w:textAlignment w:val="auto"/><w:rPr><w:rFonts w:hint="default"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>肝主怒；心主喜；脾主思；肺主忧；肾主恐。
+
+========== Shape 3 ==========
+ID: 12, Name: 文本框 12
+Pos: (66.2pt, 33.1pt) [88px, 44px]
+Size: (339.8pt x 42.8pt) [453px x 57px]
+Shape xfrm: off=(0,0) ext=(4315460,542925)
+Geometry: rect
+Line width: 6350 EMU
+Text[0]: <w:p w14:paraId="3A18A61E"><w:pPr><w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/><w:rPr><w:rFonts w:hint="default" w:eastAsia="宋体"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>消化吸收、运动、表情、思维、情绪、说话
+
+========== Shape 4 ==========
+ID: 23, Name: 文本框 23
+Pos: (382.8pt, 165.8pt) [510px, 221px]
+Size: (34.6pt x 42.8pt) [46px x 57px]
+Shape xfrm: off=(0,0) ext=(440055,542925)
+Geometry: rect
+Line width: 6350 EMU
+Text[0]: <w:p w14:paraId="01F0C064"><w:pPr><w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/><w:jc w:val="center"/><w:rPr><w:rFonts w:hint="default" w:eastAsia="宋体"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>膀胱经
+
+========== Shape 5 ==========
+ID: 22, Name: 文本框 22
+Pos: (347.5pt, 165.8pt) [463px, 221px]
+Size: (34.6pt x 42.8pt) [46px x 57px]
+Shape xfrm: off=(0,0) ext=(440055,542925)
+Geometry: rect
+Line width: 6350 EMU
+Text[0]: <w:p w14:paraId="219D256D"><w:pPr><w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/><w:jc w:val="center"/><w:rPr><w:rFonts w:hint="default" w:eastAsia="宋体"/><w:color w:val="FFFFFF" w:themeColor="background1"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/><w14:textFill><w14:solidFill><w14:schemeClr w14:val="bg1"/></w14:solidFill></w14:textFill></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:color w:val="FFFFFF" w:themeColor="background1"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/><w14:textFill><w14:solidFill><w14:schemeClr w14:val="bg1"/></w14:solidFill></w14:textFill></w:rPr><w:t>肾经
+
+========== Shape 6 ==========
+ID: 21, Name: 文本框 21
+Pos: (312.2pt, 165.8pt) [416px, 221px]
+Size: (34.6pt x 42.8pt) [46px x 57px]
+Shape xfrm: off=(0,0) ext=(440055,542925)
+Geometry: rect
+Line width: 6350 EMU
+Text[0]: <w:p w14:paraId="23765D8D"><w:pPr><w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/><w:jc w:val="center"/><w:rPr><w:rFonts w:hint="default" w:eastAsia="宋体"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>大肠经
+
+========== Shape 7 ==========
+ID: 20, Name: 文本框 20
+Pos: (277.0pt, 165.8pt) [369px, 221px]
+Size: (34.6pt x 42.8pt) [46px x 57px]
+Shape xfrm: off=(0,0) ext=(440055,542925)
+Geometry: rect
+Line width: 6350 EMU
+Text[0]: <w:p w14:paraId="716CD65A"><w:pPr><w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/><w:jc w:val="center"/><w:rPr><w:rFonts w:hint="default" w:eastAsia="宋体"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>肺经
+
+========== Shape 8 ==========
+ID: 19, Name: 文本框 19
+Pos: (241.8pt, 165.8pt) [322px, 221px]
+Size: (34.6pt x 42.8pt) [46px x 57px]
+Shape xfrm: off=(0,0) ext=(440055,542925)
+Geometry: rect
+Line width: 6350 EMU
+Text[0]: <w:p w14:paraId="7B18E997"><w:pPr><w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/><w:jc w:val="center"/><w:rPr><w:rFonts w:hint="default" w:eastAsia="宋体"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>胃经
+
+========== Shape 9 ==========
+ID: 18, Name: 文本框 18
+Pos: (206.5pt, 165.8pt) [275px, 221px]
+Size: (34.6pt x 42.8pt) [46px x 57px]
+Shape xfrm: off=(0,0) ext=(440055,542925)
+Geometry: rect
+Line width: 6350 EMU
+Text[0]: <w:p w14:paraId="728BC45B"><w:pPr><w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/><w:jc w:val="center"/><w:rPr><w:rFonts w:hint="default" w:eastAsia="宋体"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>脾经
+
+========== Shape 10 ==========
+ID: 17, Name: 文本框 17
+Pos: (171.2pt, 165.8pt) [228px, 221px]
+Size: (34.6pt x 42.8pt) [46px x 57px]
+Shape xfrm: off=(0,0) ext=(440055,542925)
+Geometry: rect
+Line width: 6350 EMU
+Text[0]: <w:p w14:paraId="0D614749"><w:pPr><w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/><w:jc w:val="center"/><w:rPr><w:rFonts w:hint="default" w:eastAsia="宋体"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>小肠经
+
+========== Shape 11 ==========
+ID: 16, Name: 文本框 16
+Pos: (136.0pt, 165.8pt) [181px, 221px]
+Size: (34.6pt x 42.8pt) [46px x 57px]
+Shape xfrm: off=(0,0) ext=(440055,542925)
+Geometry: rect
+Line width: 6350 EMU
+Text[0]: <w:p w14:paraId="3CFB20C7"><w:pPr><w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/><w:jc w:val="center"/><w:rPr><w:rFonts w:hint="default" w:eastAsia="宋体"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>心经
+
+========== Shape 12 ==========
+ID: 15, Name: 文本框 15
+Pos: (100.8pt, 165.8pt) [134px, 221px]
+Size: (34.6pt x 42.8pt) [46px x 57px]
+Shape xfrm: off=(0,0) ext=(440055,542925)
+Geometry: rect
+Line width: 6350 EMU
+Text[0]: <w:p w14:paraId="7D37E483"><w:pPr><w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/><w:jc w:val="center"/><w:rPr><w:rFonts w:hint="default" w:eastAsia="宋体"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>胆经
+
+========== Shape 13 ==========
+ID: 4, Name: 文本框 4
+Pos: (66.2pt, 458.4pt) [88px, 611px]
+Size: (339.8pt x 42.8pt) [453px x 57px]
+Shape xfrm: off=(0,0) ext=(4315460,542925)
+Geometry: rect
+Line width: 6350 EMU
+Text[0]: <w:p w14:paraId="43990732"><w:pPr><w:rPr><w:rFonts w:hint="default" w:eastAsia="宋体"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>气血
+
+========== Shape 14 ==========
+ID: 3, Name: 文本框 3
+Pos: (-37.1pt, 459.1pt) [-50px, 612px]
+Size: (90.7pt x 42.8pt) [121px x 57px]
+Shape xfrm: off=(0,0) ext=(1151890,542925)
+Geometry: rect
+Line width: 6350 EMU
+Text[0]: <w:p w14:paraId="2FC7074A"><w:pPr><w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/><w:jc w:val="both"/><w:rPr><w:rFonts w:hint="default" w:eastAsia="宋体"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>基础层
+
+========== Shape 15 ==========
+ID: 2, Name: 文本框 2
+Pos: (-36.4pt, 512.4pt) [-49px, 683px]
+Size: (90.7pt x 42.8pt) [121px x 57px]
+Shape xfrm: off=(918210,6487795) ext=(1151890,542925)
+Geometry: rect
+Line width: 6350 EMU
+Text[0]: <w:p w14:paraId="0BF5045E"><w:pPr><w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/><w:jc w:val="both"/><w:rPr><w:rFonts w:hint="default" w:eastAsia="宋体"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>基础理论层
+
+========== Shape 16 ==========
+ID: 1, Name: 文本框 1
+Pos: (67.0pt, 511.6pt) [89px, 682px]
+Size: (339.8pt x 42.8pt) [453px x 57px]
+Shape xfrm: off=(1375410,6535420) ext=(4315460,542925)
+Geometry: rect
+Line width: 6350 EMU
+Text[0]: <w:p w14:paraId="5F3F5AFD"><w:pPr><w:rPr><w:rFonts w:hint="default" w:eastAsia="宋体"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>阴阳
+
+========== Shape 17 ==========
+ID: 5, Name: 文本框 5
+Pos: (-37.9pt, 218.3pt) [-51px, 291px]
+Size: (90.7pt x 162.0pt) [121px x 216px]
+Shape xfrm: off=(0,0) ext=(1151890,2057400)
+Geometry: rect
+Line width: 6350 EMU
+Text[0]: <w:p w14:paraId="01A380E0"><w:pPr><w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/><w:jc w:val="both"/><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr></w:p><w:p w14:paraId="3C0BD54A"><w:pPr><w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/><w:jc w:val="both"/><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr></w:p><w:p w14:paraId="0CCCA70C"><w:pPr><w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/><w:jc w:val="both"/><w:rPr><w:rFonts w:hint="default" w:eastAsia="宋体"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>服务层
+
+========== Shape 18 ==========
+ID: 6, Name: 文本框 6
+Pos: (65.5pt, 216.2pt) [87px, 288px]
+Size: (339.8pt x 237.7pt) [453px x 317px]
+Shape xfrm: off=(0,0) ext=(4315460,3018155)
+Geometry: rect
+Line width: 6350 EMU
+Contains embedded image
+
+========== Shape 19 ==========
+ID: 9, Name: 文本框 9
+Pos: (-37.9pt, 112.6pt) [-51px, 150px]
+Size: (90.7pt x 42.8pt) [121px x 57px]
+Shape xfrm: off=(0,0) ext=(1151890,542925)
+Geometry: rect
+Line width: 6350 EMU
+Text[0]: <w:p w14:paraId="1E2CF2CC"><w:pPr><w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/><w:jc w:val="both"/><w:rPr><w:rFonts w:hint="default" w:eastAsia="宋体"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>协作层
+
+========== Shape 20 ==========
+ID: 8, Name: 文本框 8
+Pos: (65.5pt, 165.8pt) [87px, 221px]
+Size: (34.6pt x 42.8pt) [46px x 57px]
+Shape xfrm: off=(0,0) ext=(440055,542925)
+Geometry: rect
+Line width: 6350 EMU
+Text[0]: <w:p w14:paraId="0342D22E"><w:pPr><w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/><w:jc w:val="center"/><w:rPr><w:rFonts w:hint="default" w:eastAsia="宋体"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>肝经
+
+========== Shape 21 ==========
+ID: 7, Name: 文本框 7
+Pos: (-37.9pt, 166.6pt) [-51px, 222px]
+Size: (90.7pt x 42.8pt) [121px x 57px]
+Shape xfrm: off=(0,0) ext=(1151890,542925)
+Geometry: rect
+Line width: 6350 EMU
+Text[0]: <w:p w14:paraId="5A6A5433"><w:pPr><w:ind w:left="0" w:leftChars="0" w:firstLine="0" w:firstLineChars="0"/><w:jc w:val="both"/><w:rPr><w:rFonts w:hint="default" w:eastAsia="宋体"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:hint="eastAsia"/><w:lang w:val="en-US" w:eastAsia="zh-CN"/></w:rPr><w:t>网络层
